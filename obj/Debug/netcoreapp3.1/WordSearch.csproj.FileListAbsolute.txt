@@ -1,0 +1,13 @@
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.exe
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.deps.json
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.runtimeconfig.json
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.runtimeconfig.dev.json
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.dll
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.pdb
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.csprojAssemblyReference.cache
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.AssemblyInfoInputs.cache
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.AssemblyInfo.cs
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.dll
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.pdb
+C:\Users\Olga.Yaroshenko\Downloads\Olga_xlam\random\WordSearch\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.genruntimeconfig.cache
