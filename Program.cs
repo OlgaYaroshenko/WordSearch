@@ -109,7 +109,7 @@ namespace WordSearch
             // print found
             foreach (var word in Words)
             {
-                foreach (var st in strings.Where(unused => unused.Contains(word)))
+                foreach (var st in strings.Where(str => str.Contains(word)))
                 {
                     PrintResult(word);
                 }
